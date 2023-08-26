@@ -4,12 +4,12 @@
 
 **The OSI Reference Model**
 
+TIPS FOR VIETNAMESE: 7 OSI Layers are: Anh Phai Song Toi Ngay Dong Phong
+
 ![OSI](./Picture/OSIModel.png)
 
 
 **The TCP/IP Protocol Model**
-
-+ TIPS FOR VIETNAMESE: 7 OSI Layers are: Anh Phai Song Toi Ngay Dong Phong
 
 ![TCP/IP](./Picture/TCP_IP%20Model.png)
 
