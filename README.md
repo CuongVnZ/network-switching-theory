@@ -9,7 +9,7 @@
 
 **The TCP/IP Protocol Model**
 
-+ TIPS FOR VIETNAMESE: TCP/IP Layers: Anh Phai Song Toi Ngay Dong Phong
++ TIPS FOR VIETNAMESE: 7 OSI Layers are: Anh Phai Song Toi Ngay Dong Phong
 
 ![TCP/IP](./Picture/TCP_IP%20Model.png)
 
