@@ -1,6 +1,8 @@
 # TNE10006 Cheat Sheet
-## 1. Reference Model and Data Encapsulation
 ### Credited to: Vi Luan Dang
+### Read the full theory at: [Link](https://ebookcentral.proquest.com/lib/swin/reader.action?docID=5302962)
+
+## 1. Reference Model and Data Encapsulation
 
 **The OSI Reference Model**
 
